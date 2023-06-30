@@ -444,5 +444,8 @@ nav .fas{
         /* align-items: start; */ 
         /* background-color: red; */  
     }
+    .about-col-1{
+        display: none;
+    }
 
 }
